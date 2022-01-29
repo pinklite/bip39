@@ -1,0 +1,337 @@
+0.5.4 Latest
+Add Particl network
+Add Divi network
+Add option to turn autocompute on / off
+Add option to set custom number of pbkdf2 rounds
+Fix blank mnemonic errors when using only seed
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+8b8e3c1be03501f57e395781de8a59fd553808e1eb1278710bd7b96dacb6d0f6
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEWtXIgINwjpOilm/0n/G1jKe55qUFAmFt/kwSHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEJ/xtYynuealqnQQAJg2rxxJKJpDMmHmhc29uGPlt2eAy23G
+DcGbCRwjJmQVB0GwxHXuvgyNIIWOwfaIVG5uAF3hMXi3cNhdyoAzKnabjoGlVjDL
+txxqvbY3vUvnOjgLXNc5mjxfx2PXakYqLNLHccFtybRayHSg2l7XhmJeI0ahsKlf
+EeBw9HXY3MVhCxmEkTyHmrsiiwwqbDKzNt6MLfuuL9usl7MdaI5xIobMsh4t3ggd
+NAwzr61j3bka/ar728DIHC/CnCuUmn5Je25xPKdIZkNuT+oZfKnXRW/j93MvyXI3
+RJqite9uaPCbj7W2UN2fs7opW7mrPc5qfWSuRdiJ27aH43Pz2QfKQV8pvjJTCS8s
+uTCcoOn1N2CFw8GvG69E8xTayhAYyZBA8JfZl7bwHztk0NTs9KP7SkeLbvYliA/f
+7+XCyKsx2s9xssS1JpfUp+AbYgWCl/dg4Ncm57CvvCA2+24T42o2SRVA//vrAsF8
+TUP47mCYNwuDB2SjzxVG92LXQx8tqM8AVN6DSJ6OeN43Oqg+Uy/wEQ+VTQVNYg0k
+rEAJG0kdpntyFQyYDfDg6mpkoD4710ygKXttlNnGbq5MXN9Ank2e57AJf7xmYnFu
+AuE/S0M2M4Z6hdLegSbPRCfA2bnnUS626uJBcIPBSRtiVYNI4kGQB1T9GalMkZph
+hNxLbx8GLuhr
+=ICYM
+-----END PGP SIGNATURE-----
+Assets 4
+ bip39-standalone.html4.34 MB
+ signature.txt.asc1004 Bytes
+ Source code (zip)
+ Source code (tar.gz)
+May 11, 2021
+@iancoleman iancoleman
+ 0.5.3
+ c4f0c29
+0.5.3
+Add Starname network
+Add Terra network
+Add Bitcoin Private network
+Add Thorchain network
+Change Xwc network to Xwcc and add new Xwc
+Fix Bip85 works without mnemonic (using xprv)
+Fix extended key not updating when switching tabs
+Fix incorrect html closing tag
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+ea1884e523aede48e48806f165a614d272ea62dd411c05634c14e217d62032a7
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAmCa/jYSHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9ciaAP/0r5SijheqEWRRCr7vUD2xu7Qq7LB5LH
++Y7uTb3A3RiDPZhghwpHca6K6a1dMDFCeugvxuvQWHy8k6nwwjIAzV3+CjQGZokK
+iWrl9rxhgM0r0nsL8bucaBRNHz6LP0F15O1dfC0/6/uTKmUjFFFdoo+RhzdvFT8I
+Fdf+v4OnBMyMBfMYDRrxvFWt9QOKQmonlbUOgZyrPnFtIy+XsuyMiSiQMYoXLGcf
+AkI56Qy0msTxBaByyW+iS5Lcof3tLDCyunYPxRay/FVifQmhVmOo7pnqAW5cr9pD
+qhgt7lg7ifzygTcw1oxrLJ+EPVrufYgJuq0RseC/R/eZllCeZLYv3RkFug9W52wS
+hsAJHDXJtV1AZsj2eufm42DXvAsoBAEwVw3GHOvH9Ncj5HMs5K7nUq/fJYy9+bCs
+hswSe0N24eE/r02kWWFaHJvOEvVWRNMPAMuxzhujTn4vP/Mkwf0FdHDZhKEWm8PZ
+h3Onm22/FkJrvRnrvhLGQSSvXyyJa0fOUYBFM/kvfk0n1qpCBtKdcdczawnZ1qRB
+JblzmgJtwDMxyg8WlU3dVSqx9dsX8La3+hNK8e3sHte4sZh6zG8C1WOYKJwk+p+k
+nVK5m6IRIt8cTCSD9PqPJKPE8jMpJj9FEnmk6GggTWWjki7MHNeUjjwDVU9XT4Su
+M3rwf/QCBDTE
+=1Twv
+-----END PGP SIGNATURE-----
+Assets 4
+Feb 12, 2021
+@iancoleman iancoleman
+ 0.5.2
+ 23f393a
+0.5.2
+Show ethereum private keys with correct padding
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+c8b1d21b5d0c2d9c8d31b1af67129fe727dcdca335713e3c9244ef4824442636
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAmAnEX0SHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9cVzsP/AnmYwgbSBKsJARPOh9wT4VSfLYCP5ku
+93QXrIZf234ATJz+mMIvM5Zm5mUv2SKJIxdAkM+kZ51VSpjUHZSGWaWayN44Z4jL
+U6TVN6f6+AKiZ205utomcM6p4tHX9VS2gd9+h3VbZxwzIAmXxsWDnPVnz/qpazGk
+UJsI2uCujYD2RpZBYR+Fm/H5AUfPfCaHaPM+9UdOj3Xm36tUu0llOdxfdco27LM4
+SV/X8xsJLiMJgTeinHyPSpqGQ7/oL592TMybHxBDKoQwScn7IIvSH3fGI+ckA1+2
+g/R7nTVABWsNYRPXqFM33VqLNQqhb0bqHduIP4TzjHKLcb2NS7a3l5qBV2e8nUHt
+GOiJDAMcN4rvTw5gM2sCccDOQQmGdNCPGIVaFJStjijV+Re3eiBaPQx5jrXXRX9Y
+Rkp/q8FH4Z1dGlsn0r8WS/XNzlZ5s9W9R+63dLpnRq+FhcRYZAKXZvhuJMSDpGpk
+hIKy4ubhR+Yy3M/HvQfCt6sd+PUUWEw2tzoqkSu3gkVYbV0HUDfyOBeQydc0r8tP
+XyhihVQoiW/yXgKndNIffFkMwVw8Fmi2gR6t9S68QR174XIocK75O/wpZwK/K5jL
+Hu4Ym+jkagcyjtapTsAJKdeWzFhQ2ngJNlayl4XV8zqgFgpwn3eLX9Tn9lVctpiY
+GMfAY0S7Sqpw
+=EZEI
+-----END PGP SIGNATURE-----
+Assets 4
+3 people reacted
+Feb 10, 2021
+@iancoleman iancoleman
+ 0.5.1
+ 5e376b8
+0.5.1
+Add Portuguese language
+Add BIP85
+Add Ritocoin
+Add Cosmos Hub
+Add ZooBC
+Add Zcoin/Firo rebranded coin
+Update Namecoin WIF
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+8e8854a35fc356e5f440fa83c54987f1d272a259c5cbef74f56946ee3438c407
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAmAkrEISHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9cku4P/12qVCGzNDB26GL4fUcMUKmJ/v5poU49
+eyEpYnGuiAgmBDN9lOsYQapt7T/YUrOTtXXf8m9iWYN/qDK4WtfniTljQzQJYLTG
+5KX74HdvnIGi4n4OSBY2R5NnxxCd7guT9WH0U43XNw1GcLeFcDspJuLHLFt5q+PW
+B9VX6sJFKVPb8IPjD8wg8dxCv1Y1NoOFqrU6jxLyYKL7nSMAJg3z4QQtMhds3bGo
+82QsBtSof4V56uvJjYt3i+z1cYdKQtoML3yNtCMwwXnkCi2aCzArF/a8zCdp8IRU
+NCqTYTUssy8tVQKel+iQVTemjYTu1dpLjR0GPNXdUPpicjWBTmillzhFUzCGf384
+UoNnQ+rQ0xRIE5bB+Iqd8TGvupxri+0YJJhpAPdlwxEcjVELPadZPiYr3rCOBaoI
+dVlQFrLXqf/hdoTLk22CWnuu997ATIsrZWlrqD7RTYdbME9XGSc47YjQMJnDtlK8
+ItSVx1Vk05DTemHcQ/Fr8vq8im3RYNFdSOnCoGnLUgR9TcEIhBZNfcYCGOQ8sX5r
+obiqRhHiv6K6DCQYEkgZe/J7WlnbONF2p9VHAK4vSwIl4RSC02gD1BVt9XD/S4mK
+7uKJrMVnJpO1+Qyf+iwlmFgv1BPQeLgyz7Av6uTI/qJtlEmqO22M5/5bQbiOzWOB
+iaKnuCiOH+SV
+=cWoS
+-----END PGP SIGNATURE-----
+Assets 4
+Oct 18, 2020
+@iancoleman iancoleman
+ 0.5.0
+ 4e59e7d
+0.5.0
+Remove bias from base 6 and base 10 entropy
+Add notes about card entropy
+Hide/show split mnemonic cards
+Fix link to standalone release file
+Add Scribe network
+Add Nano network
+Add TRX network
+Add Binance Smart Chain network
+Clean up dependencies for eos-util
+Update bootstrap to 3.4.1
+Bump library versions
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+ce844ef198f829018414368a4df172864def06c2f76eeb28d5cc3298e1563e3d
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAl+M6WESHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9c6roP/3QHdcjpaX91mNYSbDqGYFLHb3/qBGvW
+uwtYkIBJFsY9ZBw0hIz6AO+9MV1MRN90wUlXm4Kbbn08kiarux6ciaVamjNB/5zi
+jN9tgAM4GTgj6lBrF1MMLJDcMdGoSnrrBvCbpzBDye3+Oxc2oBlVwmBmmonXSfw6
+74cOHUVqCNrG/9/UBgFTlnSGnSucwinVKrzV72tmP0A08OVo15e9EWG2ZyE5opmO
+e+eUhLEWFlrcD+I5qMp/NfAgLyi7PT0ikHUnqgYxVnsxc+MhorinkLtjkYhIGupN
+r78zF6In0BcBzIl/y+/7wzb4RpW4nQmY3RNWChD/aQ4hDFZPWj/IBlBi1TQzw//6
+ndUusw6J9G5L+OqQdVUyCPCq6/bUbw4P7cdYotG0qpe6BpySpPAmpgUBcVuw9deC
+hGlFUnGJViK4QvbJR/tEW+kCbr78D7qzZEtvAIHptWhUOaUB3X+oxCDT+DjDRqfj
+hN7XFuupdXKXQKqCq4j0Dxae4L5KLqShfwnqVQZBB1P6sF7L29AhRkjgp9FOTuVF
+63rP0yMZLyDnnTudPESf4Sb/iqBd5VC5ZLGNJ+f5W500F9HOmvE6KVwXr87cnh5Y
+XNQOM+FGcJpiameaJ2oEM+Q+EeQS4jJJimbrfbRz9hIzW/58Ibsoaa9b8rdxXr+E
+p3otkNgZbC3n
+=ydob
+-----END PGP SIGNATURE-----
+Assets 4
+May 10, 2020
+@iancoleman iancoleman
+ 0.4.3
+ f32b24e
+0.4.3
+Add FIO - Foundation for Interwallet Operability
+Add Argoneum
+Add CranePay
+Add Jingtum network
+Add MOAC
+Update RSK network
+Add HandShake
+Add Sugarchain testnet
+Fix wording "is a checksum" / "contains a checksum"
+Fix bech32 prefix for monacoin
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+6b98b367acdee51961118f57d0ba40e57f369d031a43c673ad76cda97cf61db1
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAl64lswSHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9cJD0P/i71fuVqYzNmSvLYk9Z4DLbn1i3Ynu0Z
+n1Dl+lpZAU7hBJwJ/GZ66sWdP1+q6fQLJTc4Es3rCzOlOkh9swI0aLCkvjhPVJTM
+7VNMr6fi0rd4A1zwcCK9tYJVfCFI2oGxpsgZ7WmGv3M4+TeIhKFSsSlQlxi2ajr9
+SqAo6nEkD6z5vf52YXYgbs1QFKRSS5sQEVZNrtnuAIby7O15s/OU2uGeVh/uYGGB
+dA2AH6O8WlSjmjltVEiBOi0Uqd3acAdJuBStGZxVG1PAWzLUXEk9lkFtopdjBLdl
+3RyXZyjMgS4Qa0+1/QjUdV8O6hLVQ9SUWeTyOZt3uMg9/pfTVKo3l7iA7pUociwL
+n+C6YYDDv0zXj4M2pD2rHdxDVW7DWrf50OhX/H+tacnlzT8E8eNbnprGssq6b5xj
+9MY7C7HTbnjbL12MWQbOXwY1JO4B4mv+3RN6o/GQysfmTgZb3FeWMpc9XJrqGnSe
+X8b/evmbSTkxUgYdblbl9H8Tb1RBTSAc+qeh5oK/y6fslLmycOmZl9TdLQucctWC
+LCAh/CFA8USn3j07S4atK5FWtfsBiYbTG/IyhUqIkh4mM3jJV0Q/lFHm8fYsEaOq
+1b/HqlvnRGoYSWoLa8iTUwwKlAecy51F9Bw9VPsc1ZBRsk69cyocjq2kZZi6qCT2
+wNaPwUON3O+A
+=BKcU
+-----END PGP SIGNATURE-----
+Assets 4
+Feb 07, 2020
+@iancoleman iancoleman
+ 0.4.2
+ 90f7a5e
+0.4.2
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+8f983c6f5c7a26749d31bbfdbe3b43b676207f19edcca5c027c1681864bd6a07
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAl49O/sSHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9cHhQQALwbMr1Tc0O/wKyRFBLV9RcQ9XiMBJtl
+qxcAwlKa3CY9YIBB9jYdVUNH7ZAa9mcDhlacCS5GrNZM6xWbxY5vbelU8KiZG+8F
+8ICgwz1ODKoLWutrJ6XTN45wCuSQgsV5vFrtQYuvQGUNIQadmBdLG//YWC4r0yWN
+Ij7OXs2/d6c+0a3Cdxjw8EbGea78v/hQvE84emh8rlXlJayZXF/91YHdSCDPXwT2
+P5LSBpHUMT/09iPBf5BNiXHZ+roNKyStCxfrgGWeZZGTeEUCTLKjOrluC2Ni6Q2H
+cz4m8iMbjott1zmIN6GgtEl6SyHHJZ+K2UtgEY+EE7FnORvdrEHDqmHKwdAGCjNT
+koYNlV8ZAgizGz5obhKbUXaz0NFL0kMq+nRsl/vmZvlih4b1QVXTYLBiAXH+qeg8
+m/ICDJUwLr1jVW4CS7lqeGneqRyLq+c/6NGpxd6fFFkzujZGNkhI48mdi8GtcK9/
+xt3YtB1FjajFyUxBUR3beP3HR0F4+siyMcP6Nn7D/wDVeWoFt4XN1EQxXXIPRV7a
+v/5aQjErZtykoYZnBVMlefS4TckBYRKV64mfAVNBKZjEkvVf3RX2TrlZu8p5j6WJ
+kjxQ6io6IYuDk3o41itOB7Bs8IHD3bYysZGZ1DExLScOilecSoYqm4RxvkuV6uhG
+Zxf6QhUqLTuV
+=aM/U
+-----END PGP SIGNATURE-----
+Fix ethereum private key format
+Assets 4
+Feb 06, 2020
+@iancoleman iancoleman
+ 0.4.1
+ 927450e
+0.4.1
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+7b79a17c9ddc44d546f608987de9a91856c70162205b59b59600efeee1652f7e
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAl472RoSHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9cRBcQAJiLmr2oOMudCdLk2qt9Y5OmqA7ZXcIm
+JFoFEStc1FlYs3RrWQadVpf9pnMyl7K/BdiOm0EkZt1OrBSwT7agBnpB85Bv23lv
+4pqKC28tuh5+r3XdvEgTnmQtgtpYFwo/VoRlSmzZYXvKxoQhEJ0EfxUC3OL4Ot1/
+SdOi4DWcTRcLRYMWg9weg7f9Jwd788yHhkqyTfZCUKjjsm8EJ0tUrxYkZ3iU+v0m
+w8XN9ErjgV96V3rZIQbb/tlylxEe8bBdVkEBgLPNCDvJ5tmXuQwAjSMXasiOSS5q
+Cx7NisRgaHyIbCxWxMuj0L8w/QydUQESkYJmgrgjGS/qLmETbTTUaWtkRSmUmW/W
+URC9ysUJ/JEcjuV+1hQKR5CSFOYZknV/fiezr85Z2e9dFw916SfqmgPLw3HNXAhA
+i8pyj0ila6VBmhuKgqcK0SNrEN6JdRmXplJJSS8cmOSEgfZDzRhsdFQpN51A5oHv
++b5er90ToZ6RvCoRzwUu9AzA9HJpRrGwnsz4v3PyBDSRcrv6HeyViThdVQTCd2VM
+8M7Vmk3dD4PZ3otK+xu5NJ6cNeP8w3fs+13FSb+q17+jPjZyczdDp2TTsTIpZhXf
+qXWLVj354FAYnDhsZc1b+PJ6maFw+fuJoHRxADp85jzkTqXbKReovKItByuMFQZ0
+vHZd1hcSI05+
+=u9F0
+-----END PGP SIGNATURE-----
+Fix no loading on chrome with third-party cookies blocked
+Add EtherCore
+Add RSK network
+Add DeepOnion segwit parameters
+Fix ethereum xpub derivation
+Assets 4
+Dec 18, 2019
+@iancoleman iancoleman
+ 0.4.0
+ aa793f5
+0.4.0
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+bd207d5bebb499dd57f79ae8c8c8b5da58d17cdd3168f6d4b8b8827a7ab00d86
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAl368zYSHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9cPQMQAIqCp1A5m5Ero8/ni9+zKktuTFGDawTI
+ausbFM2fVAxN0z1Fpr/BJZJyEntGk4YMgtuxp95qCBidvDzRulV/EsZRzXXChO4/
+z94nJWpQaetFSleQ5Hx7j9LtaAjHVwCBImmPh0h4+cd6s+EpGw6W2+bzb3zO4FND
+oxWohOQiZWZGrnLivDM2bJaZoDuas5UwfFdq0quCSo13q6KvLNb53+eh2P7Wqujb
+Pa/xfo5CyIXpjF0M1K1cQyV6+VP4V874EB5f/gjL+OlzU5sXFz+2gRGJfgv6Pna/
+xF5gPHpUXJK0GBHywGdO79Re4WBX3uixzHG2/LkxNRuZ9qRAhh3PFCEZr8tTd+vX
+PfVIWpunrMbNqEXr2usArdRUP6yyvJCjcq4IOmxfsRh8h1aVgxugjyT9ppAQdCCC
+RNXJXxzHwjUqCI7C3ZWXXftHo7VBS0lVjqKsP+h5321hrewBbKlB0IAgJPbcLYYS
+WuHwKjCbCb9Q0DVuVdWh7fFIGQcvh9rqYRTh/T6mY3L7xjErd01Smz4pR+g9i1cs
+oIuWtZprNlyK5Al4Iqnwdy/LICW20gS1OjqocNc3B3V8WhrURrH3pa0VsKE34UcQ
+fxUSmwdcbocx4tzBcg8nOyTE6MUQrPSDG8R6DZB33Wi1w1U7XraBCni5pMy7bMx1
+1/T5hQrbj2r8
+=H2bj
+-----END PGP SIGNATURE-----
+Third party libraries deduplicated and minified
+Add text reminder for multibit wallet change addresses
+Seed field can be edited
+Add bitcoin regtest parameters
+Mnemonic conversion to entropy is hex encoded instead of binary
+Entropy type can be manually selected
+Add Bitcoin P2WSH and P2WSH-P2SH
+Add Czech language
+Assets 4
+Dec 01, 2019
+@iancoleman iancoleman
+ 0.3.14
+ 76531b6
+0.3.14
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+sha256sum bip39-standalone.html
+aab5465045640c2bfc214a83a7a3b5ca394dfe92cac59a01375fe1bb9fd604b2
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEjaYETspbIlDKhOzsbA4AtB8jH1wFAl3kURYSHGlhbkBpYW5j
+b2xlbWFuLmlvAAoJEGwOALQfIx9c1NMP/34qiFPNeC/xKyPwLDMT2CT8qdZOD04r
+GAVzM35RoC8Gzzw/cV7yrBG5CSY++1rj0tp2a1Ux+kvnGzma/w8FpDkSQrMg5gfB
+Q24cN66BtdGMXQ5sd9LxrJYLyllOyc6F7UahPQhXwQFmm3FwO4Pgxo6qZYde1jRQ
+n0kpcNnNwQcPYNAI80ONiFOxiq8Aje14/jnmVLKEnkBuWcNzKwI3dIiRQUwOR0LQ
+NRVgVsZghvfGo9jHF/KYTxxBDosMBQYV4GG1suoqLpIwcSBZH7oKTQ2TlZPWUByd
+819bTXX8fCDHJGI2Hw+lpoVqnIenOUPD41qRsAQFE0Gvusiz3SlZgtTImrCXo5Ne
+CU/OG/6i09MTmv24BwzcZJPzylKUzBcMoUKqKbLzloD3vUB9xQvWb27M4RcnL6O2
+MYa5VwPmvfdEJR+2iuYKyw16t5450nISjIe2tMjLumWZ1vwlZLaivQAzMxsyl5+n
+KSyh89p5Oq42/KobVRElc1ZAUkHfDcrNnQWT4RWEi3H+LHGntbDtYYQpSOE6JHY9
+o+hCPUOIoDJwb+gd8r9fYf/Qxlc6kRyhs9UlSII2QutjtKDtmdQWXrKqXRRv6s/T
+eCYBLDMez9gSUzqb6vYWPwFLGNBb2KbVdU3bre/USCu+JafWzP7VtiZsz+eyNVVt
+mNHtqnrTjAED
+=o6Tj
+-----END PGP SIGNATURE-----
+Ethereum uses standard BIP44 as per majority of wallets (Issue 378)
